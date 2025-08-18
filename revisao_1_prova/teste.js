@@ -1,0 +1,1 @@
+console.log("alguma coisa no arquivo teste.js")

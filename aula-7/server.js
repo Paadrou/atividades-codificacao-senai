@@ -38,4 +38,4 @@ fs.appendFile("dados.txt", "isso é um cinema absoluto", (err)=>{
         console.log("erro" + err)
 
     console.log('linha adicionada com sucesso')
-})
+})""
