@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "nome":"Igor",
+        "idade": 17,
+        "email":"giaeofa@gmail.com"
+    },
+    {
+        "id":2,
+        "nome":"Igor2",
+        "idade": 172,
+        "email":"giaeof22a@gmail.com"
+    }
+]
